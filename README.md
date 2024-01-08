@@ -94,7 +94,7 @@
   <!--- Repo #1 --->
   <a align="right" href="https://github-readme-stats.vercel.app/api/pin/?username=Amritanshu312&repo=iNotedesk&theme=react&border_color=61dafb&border_radius=10"></a>
   <!--- Repo #2 --->
-<!--   <a align="left" href="https://github.com/Rachit-Pal/NekoMusic" title="Telegram VC Bot"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rachit-Pal&repo=NekoMusic&theme=react&border_color=61dafb&border_radius=10"></a> -->
+  <a align="left" href="https://github.com/Rachit-Pal/NekoMusic" title="Telegram VC Bot"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rachit-Pal&repo=NekoMusic&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
