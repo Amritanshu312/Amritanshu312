@@ -29,26 +29,6 @@
 <hr> <!--- <hr> tag is use for Horizontal Lines --->
 
 
-<!--- G I T H U B   T R O P H Y --->
-
-<h2 align="center">Github Trophy and Contribution Graph <img src="https://github.com/Rachit-Pal/Rachit-Pal/blob/main/resources/Neko-01.gif" width="30px"></h2>
-<br>
-
-<p align="center">
-  <a href="https://github.com/Rachit-Pal/Github-Profile-Trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachit-pal&theme=darkhub&no-frame=true" alt="Rachit-Pal"/></a>
-</p>
-
-
-<!--- G I T H U B   C O N T R I B U T I O N   G R A P H --->
-
-<p align="center">
-  <br>
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Rachit-Pal&theme=react-dark&hide_border=true">
-  </a>
-</p>
-
-
 <!--- L A N G U A G E - F R A M E W O R K S -  T O O L S --->
 
 <h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
