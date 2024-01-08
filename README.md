@@ -6,7 +6,7 @@
 <!--- P R O F I L E   B A N N E R --->
 
 <h1 align="center">
-  <img src="https://telegra.ph/file/c3211f5624cd36cbdae9c.jpg">
+  <img src="[https://telegra.ph/file/c3211f5624cd36cbdae9c.jpg](https://github.com/Amritanshu312/Amritanshu312/blob/main/resources/banner.jpg)">
 </h1>
 
 
