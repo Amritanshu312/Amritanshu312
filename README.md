@@ -97,12 +97,12 @@
 <!--   <a align="left" href="https://github.com/Rachit-Pal/NekoMusic" title="Telegram VC Bot"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rachit-Pal&repo=NekoMusic&theme=react&border_color=61dafb&border_radius=10"></a> -->
 </div>
 <br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
+<!-- <div width="100%" align="center"> -->
   <!--- Repo #3 --->
 <!--   <a align="left" href="https://github.com/Rachit-Pal/YorForger" title="Telegram group management bot"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rachit-Pal&repo=YorForger&theme=react&border_color=61dafb&border_radius=10"></a> -->
   <!--- Repo #4 --->
 <!--   <a align="right" href="https://github.com/Rachit-Pal/AlbedoBot" title="Anime themed group management bot"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rachit-Pal&repo=AlbedoBot&theme=react&border_color=61dafb&border_radius=10"></a> -->
-</div>
+<!-- </div> -->
 
 <br><br><br><br><br><br>
 
