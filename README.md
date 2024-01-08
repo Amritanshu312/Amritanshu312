@@ -14,7 +14,7 @@
 
 <h1 align="center">  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=40&pause=1000&color=18AFFF&center=true&vCenter=true&width=435&height=50&lines=Hey+Fellas!;Myself+Amritanshu+signh;"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=40&pause=1000&color=18AFFF&center=true&vCenter=true&width=565&height=50&lines=Hey+Fellas!;Myself+Amritanshu+singh!"/>
   </a>
 </h1>
 
@@ -22,20 +22,10 @@
 <!--- A B O U T   M E --->
 
 <h4 align="center">
-    ⚜️ A Web Developer, Learner and a Gamer from India ⚜️<br>
-    🎓 Doing my Bachelors from <a href="http://www.ipu.ac.in/">IPU UNIVERSITY</a> 🎓<br>
-    💻 I’m currently working on <a href="https://t.me/NekochanRobot">NEKO ROBOT</a> 💻<br>
+    ⚜️ A Web Developer, Learner from India ⚜️<br>
 </h4>
 
 
-<!--- S O C I A L   M E D I A   B A D G E S --->
-
-<div align="center">
-    <a href="https://t.me/Saltam4" target="_blank"><img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=Telegram&logoColor=white" target="_blank"></a>
-    <a href="https://instagram.com/RachitKrPal" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:RachitKrPal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://twitter.com/RachitKrPal" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-</div>
 <hr> <!--- <hr> tag is use for Horizontal Lines --->
 
 
