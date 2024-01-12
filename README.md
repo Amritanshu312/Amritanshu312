@@ -6,7 +6,7 @@
 <!--- P R O F I L E   B A N N E R --->
 
 <h1 align="center">
-  <img src="https://github.com/Amritanshu312/Amritanshu312/blob/main/resources/banner_.jpg">
+  <img src="https://4kwallpapers.com/images/walls/thumbs_3t/10025.jpg">
 </h1>
 
 
