@@ -22,7 +22,7 @@
 <!--- A B O U T   M E --->
 
 <h4 align="center">
-    ⚜️ A Web Developer, Learner from India ⚜️<br>
+    ⚜️ A Web Developer, Learner And an anime fan from India ⚜️<br>
 </h4>
 
 
@@ -35,15 +35,15 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,nodejs,github,python,html,js,css,wordpress,md,graphql,atom,discord" /><br>
-    <img src="https://skillicons.dev/icons?i=heroku,bootstrap,mongodb,mysql,blender,linux,vscode,ps,ae,pr,ai," />
+    <img src="https://skillicons.dev/icons?i=git,nodejs,github,python,html,js,css,md,graphql,atom,discord,react" /><br>
+    <img src="https://skillicons.dev/icons?i=firebase,bootstrap,mongodb,flask,git,vscode,redux,express,figma,powershell" />
   </a>
 </p><br>
 
 <h2 align="center">Learning</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,solidity,aws,googlecloud,electron,xd" />
+    <img src="https://skillicons.dev/icons?i=anaconda,azure,bash,docker,gcp" />
   </a>
 </p>
 
@@ -55,7 +55,7 @@
 <div align="center">
   <h2 align="center">Snake eating my Contribution <img src="https://github.com/Rachit-Pal/Rachit-Pal/blob/main/resources/Neko-03.gif" width="30px"></h2>
   <br>
-  <img alt="snake eating my contribution" src="https://github.com/Rachit-Pal/Rachit-Pal/blob/output/github-contribution-grid-snake.svg">
+  <img alt="snake eating my contribution" src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg">
   <br>
   <br>
   <br>
@@ -92,9 +92,9 @@
 <br>
 <div width="100%" align="center">
   <!--- Repo #1 --->
-    <a align="right" href="https://github.com/Rachit-Pal/NekoMusic" title="Online note storing website"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Amritanshu312&repo=iNotedesk&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a align="right" href="https://github.com/Amritanshu312/iNotedesk" title="Online note storing website"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Amritanshu312&repo=iNotedesk&theme=react&border_color=61dafb&border_radius=10"></a>
   <!--- Repo #2 --->
-<!--   <a align="left" href="https://github.com/Rachit-Pal/NekoMusic" title="Telegram VC Bot"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rachit-Pal&repo=NekoMusic&theme=react&border_color=61dafb&border_radius=10"></a> -->
+  <a align="left" href="https://github.com/Amritanshu312/i-social-Media" title="I social media"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Amritanshu312&repo=i-social-Media&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <!-- <div width="100%" align="center"> -->
@@ -110,7 +110,7 @@
 <!--- S H O W   M O R E --->
 
 <h4 align="center">
-  <a href="https://github.com/Rachit-Pal?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/Amritanshu312?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
 <br>
