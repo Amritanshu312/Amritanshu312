@@ -6,7 +6,7 @@
 <!--- P R O F I L E   B A N N E R --->
 
 <h1 align="center">
-  <img src="https://4kwallpapers.com/images/walls/thumbs_3t/10025.jpg">
+  <img src="https://4kwallpapers.com/images/walls/thumbs_3t/79.jpg">
 </h1>
 
 
