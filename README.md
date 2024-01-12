@@ -55,7 +55,8 @@
 <div align="center">
   <h2 align="center">Snake eating my Contribution <img src="https://github.com/Rachit-Pal/Rachit-Pal/blob/main/resources/Neko-03.gif" width="30px"></h2>
   <br>
-  <img alt="snake eating my contribution" src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg">
+<!--   <img alt="snake eating my contribution" src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg"> -->
+  <video src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" autoplay loop controls>
   <br>
   <br>
   <br>
