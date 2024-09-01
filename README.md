@@ -22,7 +22,7 @@
 <!--- A B O U T   M E --->
 
 <h4 align="center">
-    ⚜️ A Web Developer, Learner And an anime fan from India ⚜️<br>
+    ⚜️ A Web Developer, Learner from India ⚜️<br>
 </h4>
 
 
@@ -46,20 +46,6 @@
     <img src="https://skillicons.dev/icons?i=anaconda,azure,bash,docker,gcp" />
   </a>
 </p>
-
-<hr>
-
-
-<!--- S N A K E   E A T I N G   M Y   C O N T R I B U T I O N --->
-
-<div align="center">
-  <h2 align="center">Snake eating my Contribution <img src="https://github.com/Rachit-Pal/Rachit-Pal/blob/main/resources/Neko-03.gif" width="30px"></h2>
-  <br>
-  <img alt="snake eating my contribution" src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width='100%'>
-  <br>
-  <br>
-  <br>
-</div>
 
 <hr>
 
@@ -90,12 +76,22 @@
 
 <h2 align="center">💾 REPOSITORIES 💾</h2>
 <br>
-<div width="100%" align="center">
-  <!--- Repo #1 --->
-    <a align="right" href="https://github.com/Amritanshu312/iNotedesk" title="Online note storing website"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Amritanshu312&repo=iNotedesk&theme=react&border_color=61dafb&border_radius=10"></a>
-  <!--- Repo #2 --->
-  <a align="left" href="https://github.com/Amritanshu312/i-social-Media" title="I social media"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Amritanshu312&repo=i-social-Media&theme=react&border_color=61dafb&border_radius=10"></a>
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; width: 100%;">
+
+  <a href="https://github.com/Amritanshu312/Taro" title="Taro">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Amritanshu312&repo=Taro&theme=react&border_color=61dafb&border_radius=10" alt="Taro">
+  </a>
+  
+  <a href="https://github.com/Amritanshu312/iNotedesk" title="Online note storing website">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Amritanshu312&repo=iNotedesk&theme=react&border_color=61dafb&border_radius=10" alt="iNotedesk">
+  </a>
+
+  <a href="https://github.com/Amritanshu312/i-social-Media" title="I social media">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Amritanshu312&repo=i-social-Media&theme=react&border_color=61dafb&border_radius=10" alt="I social media">
+  </a>
+
 </div>
+
 <br/><br/><br/><br/><br/><br/>
 <!-- <div width="100%" align="center"> -->
   <!--- Repo #3 --->
