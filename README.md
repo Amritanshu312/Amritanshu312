@@ -6,7 +6,7 @@
 <!--- P R O F I L E   B A N N E R --->
 
 <h1 align="center">
-  <img src="https://4kwallpapers.com/images/walls/thumbs_3t/79.jpg">
+  <img src="https://img.freepik.com/free-photo/mythical-dragon-beast-anime-style_23-2151112807.jpg?t=st=1725269362~exp=1725272962~hmac=51fec71e3163436d013c200218058e5cdee7cd4adca8b13f85bc0533e0b7e9a6&w=1480" style="border-radius: 20px;">
 </h1>
 
 
